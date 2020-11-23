@@ -12,11 +12,10 @@ The proposal consists of:
 
 1. Abstract — a paragraph description of the problem/situation/etc. your application is addressing.
 2. List of data sources you intend to use for this project. For each data source, please list:
-
-  * Where you can get access to the dataset (e.g., a URL, government agency, third-party API, BigQuery public dataset, etc.)
-  * Size of dataset (if applicable)
-  * How you intend to host the dataset (if applicable) — PostgreSQL on AWS RDS, Google BigQuery, somewhere else
-  * Do you have access to this data?
+   * Where you can get access to the dataset (e.g., a URL, government agency, third-party API, BigQuery public dataset, etc.)
+   * Size of dataset (if applicable)
+   * How you intend to host the dataset (if applicable) — PostgreSQL on AWS RDS, Google BigQuery, somewhere else
+   * Do you have access to this data?
 
 3. Wireframes of the webpages for your project. See [this page](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/) for guidance on creating wireframes. Hand-drawn or digital are both acceptable, but please scan or take pictures of the hand-drawn ones for inclusion in the repo. Link the images in the proposal markdown. Interactive wireframes are acceptable too. Many free and paid tools exist for creating wireframes (Adobe Wireframe XD, [MockFlow](https://mockflow.com/), [Figma](https://www.figma.com/wireframe-tool/), etc.)
 
