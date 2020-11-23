@@ -4,7 +4,7 @@ The final project will be the culmination of all of the skills learned and pract
 
 ## Proposal
 
-A project proposal is due Thursday, Nov 19th. Please place your proposal in your project GitHub repo in a file called `proposal.md`. Write the proposal in markdown (how all class READMEs are written). If you need a markdown reference, check out [GitHub's](https://guides.github.com/features/mastering-markdown/). There are many more online.
+A project proposal is due Thursday, Nov 19th. Please place your proposal in your project GitHub repo in a file called `proposal.md`. Write the proposal in markdown (how all class READMEs are written). If you need a markdown reference, check out [GitHub's](https://guides.github.com/features/mastering-markdown/). There are [many more online](https://www.google.com/search?channel=tus2&client=firefox-b-1-d&q=markdown+reference).
 
 The proposal consists of:
 
