@@ -1,6 +1,6 @@
 # Final Project
 
-The final project will be the culmination of all of the skills learned and practiced in this class. Students will build an application that has a custom backend (e.g., Flask with a PostGIS database) hosted on the cloud that can be publicly accessed and returns custom responses based on user inputs. Expectations are that API responses will be communicated in multiple ways: a static chart or map, interactive maps, formatted statistics among others.
+The final project will be the culmination of all of the skills learned and practiced in this class. Students will build an application that has a custom backend (e.g., Flask with a PostGIS database) and a dynamically-generated HTML frontend. The full site will be hosted on the cloud at a URL that can be publicly accessed and returns custom responses based on user inputs. Expectations are that API responses will be communicated in multiple ways: a static chart or map, interactive maps, formatted statistics among others.
 
 ## Proposal
 
