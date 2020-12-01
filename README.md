@@ -2,6 +2,12 @@
 
 The final project will be the culmination of all of the skills learned and practiced in this class. Students will build an application that has a custom backend (e.g., Flask with a PostGIS database) and a dynamically-generated HTML frontend. The full site will be hosted on the cloud at a URL that can be publicly accessed and returns custom responses based on user inputs. Expectations are that API responses will be communicated in multiple ways: a static chart or map, interactive maps, formatted statistics among others.
 
+## Table of Contents
+
+* [Proposal](#Proposal)
+* [Schedule](#checkins)
+* [Final Project Requirements](#project-requirements)
+
 ## Proposal
 
 A project proposal is due Thursday, Nov 19th. Please place your proposal in your project GitHub repo in a file called `proposal.md`. Write the proposal in markdown (how all class READMEs are written). If you need a markdown reference, check out [GitHub's](https://guides.github.com/features/mastering-markdown/). There are [many more online](https://www.google.com/search?channel=tus2&client=firefox-b-1-d&q=markdown+reference).
@@ -16,6 +22,21 @@ The proposal consists of:
    * Do you have access to this data?
 
 3. Wireframes of the webpages for your project. See [this page](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/) for guidance on creating wireframes. Hand-drawn or digital are both acceptable, but please scan or take pictures of the hand-drawn ones for inclusion in the repo. Link the images in the proposal markdown. Interactive wireframes are acceptable too. Many free and paid tools exist for creating wireframes (Adobe Wireframe XD, [MockFlow](https://mockflow.com/), [Figma](https://www.figma.com/wireframe-tool/), etc.)
+
+## Checkins
+
+0. Proposal meeting.
+1. One-week checkin via Zoom. Will be able to demonstrate...
+   - A running PostGIS database on RDS with one or more datasets
+   - API endpoints are mostly working
+   - HTML pages are a work in progress
+   - List of problems you are having or foresee
+2. Two-week check-in (via GitHub) on Dec 8th. Code in repo will demonstrate...
+   - All API endpoints are working
+   - All data is in database
+   - HTML pages are roughly working
+   - Architecture diagram is sketched out
+   - List of problems you are having or foresee
 
 ## Project Requirements
 
