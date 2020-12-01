@@ -5,7 +5,7 @@ The final project will be the culmination of all of the skills learned and pract
 ## Table of Contents
 
 * [Proposal](#Proposal)
-* [Schedule](#checkins)
+* [Check-in Schedule](#check-in-schedule)
 * [Final Project Requirements](#project-requirements)
 
 ## Proposal
@@ -23,15 +23,17 @@ The proposal consists of:
 
 3. Wireframes of the webpages for your project. See [this page](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/) for guidance on creating wireframes. Hand-drawn or digital are both acceptable, but please scan or take pictures of the hand-drawn ones for inclusion in the repo. Link the images in the proposal markdown. Interactive wireframes are acceptable too. Many free and paid tools exist for creating wireframes (Adobe Wireframe XD, [MockFlow](https://mockflow.com/), [Figma](https://www.figma.com/wireframe-tool/), etc.)
 
-## Checkins
+## Check-in Schedule
 
-0. Proposal meeting.
-1. One-week checkin via Zoom. Will be able to demonstrate...
+Besides the following check-ins, informal check-ins / office hours can be scheduled by appointment.
+
+0. Proposal meeting — **via Zoom**
+1. One-week checkin — **via Zoom**. Recommended project progress will be able to demonstrate...
    - A running PostGIS database on RDS with one or more datasets
    - API endpoints are mostly working
    - HTML pages are a work in progress
    - List of problems you are having or foresee
-2. Two-week check-in (via GitHub) on Dec 8th. Code in repo will demonstrate...
+2. Two-week check-in — **via GitHub on Dec 11th**. Code in repo will demonstrate...
    - All API endpoints are working
    - All data is in database
    - HTML pages are roughly working
