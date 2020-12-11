@@ -83,7 +83,7 @@ Besides the following check-ins, informal check-ins / office hours can be schedu
   * Includes attribution for all data sources used in project
 * Application Development
   * All code is to be committed to a GitHub repository that you share with your partner
-  * No API credentials, DB credentials, or otherwise should be committed to the repo. Instead, commit files that are in the same structure but do not contain the API keys, passwords, hosts, etc. A good practice is to have files like `pg-credentials.json.sample` committed but in the `.gitignore` file `pg-credentials.json` is added to avoid accidentally committing.
+  * No API credentials, DB credentials, or otherwise should be committed to the repo. Instead, commit files that are in the same structure but do not contain the API keys, passwords, hosts, etc. A good practice is to have files like `pg-credentials.json.sample` committed but in the [`.gitignore`](https://git-scm.com/docs/gitignore) file `pg-credentials.json` is added to avoid accidentally committing.
   * Each person in the group must contribute roughly equal contributions of code to the repository
 
 ### Bonuses
